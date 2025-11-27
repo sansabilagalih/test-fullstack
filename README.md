@@ -1,11 +1,10 @@
 # Crypto Dashboard
 
-A modern, responsive crypto dashboard built with Next.js and Tailwind CSS.
+Crypto dashboard built with Next.js and Tailwind CSS.
 
 ## Features
 
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices.
-- **Dark Mode**: Sleek dark theme optimized for crypto trading aesthetics.
 - **Dashboard**: Visualizes key metrics like Total Deposits and Registrations.
 - **Crypto Market**: Displays live-like crypto prices and market data.
 
@@ -28,7 +27,7 @@ A modern, responsive crypto dashboard built with Next.js and Tailwind CSS.
    npm run dev
    ```
 
-3. Open [http://localhost:3000](http://localhost:3000) for Main Page and (http://localhost:3000/dashboard) for Dashboard Page with your browser.
+3. Open [http://localhost:3000](http://localhost:3000) for Main Page and [http://localhost:3000/dashboard](http://localhost:3000/dashboard) for Dashboard Page with your browser.
 
 ## API Documentation
 
@@ -68,4 +67,3 @@ Returns the total amount of deposits per month (in IDR).
 
 - `app/`: Next.js App Router pages and API routes.
 - `components/`: Reusable UI components (Navbar, Sidebar, Charts, etc.).
-- `public/`: Static assets.
