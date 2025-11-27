@@ -28,7 +28,7 @@ A modern, responsive crypto dashboard built with Next.js and Tailwind CSS.
    npm run dev
    ```
 
-3. Open [http://localhost:3000](http://localhost:3000) with your browser.
+3. Open [http://localhost:3000](http://localhost:3000) for Main Page and (http://localhost:3000/dashboard) for Dashboard Page with your browser.
 
 ## API Documentation
 
