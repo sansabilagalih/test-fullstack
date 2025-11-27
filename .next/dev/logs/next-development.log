@@ -1,0 +1,110 @@
+[00:00:00.928] Server  LOG      ✓ Ready in 659ms
+[00:00:07.324] Server  ERROR    ⨯ ./components/CryptoTable.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Star } from 'lucide-react';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | const tableData = [
+  4 |   { id: 1, pair: 'BTC/DAI', price: '98,832.93 / Rp 1,612,213,281.72', change: '+3.89%', highLow: '102,451.34 / Rp 94,288.07', marketCap: 'Rp 31,953.008T', volume: '1.538M', isUp: true },
+
+
+
+Import trace:
+  Server Component:
+    ./components/CryptoTable.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:10.321] Browser ERROR   uncaughtError: Error: ./components/CryptoTable.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Star } from 'lucide-react';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | const tableData = [
+  4 |   { id: 1, pair: 'BTC/DAI', price: '98,832.93 / Rp 1,612,213,281.72', change: '+3.89%', highLow: '102,451.34 / Rp 94,288.07', marketCap: 'Rp 31,953.008T', volume: '1.538M', isUp: true },
+
+
+
+Import trace:
+  Server Component:
+    ./components/CryptoTable.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:00:12.041] Browser ERROR   ./components/CryptoTable.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Star } from 'lucide-react';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | const tableData = [
+  4 |   { id: 1, pair: 'BTC/DAI', price: '98,832.93 / Rp 1,612,213,281.72', change: '+3.89%', highLow: '102,451.34 / Rp 94,288.07', marketCap: 'Rp 31,953.008T', volume: '1.538M', isUp: true },
+
+Import trace:
+  Server Component:
+    ./components/CryptoTable.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:12.041] Browser ERROR   ./components/CryptoTable.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Star } from 'lucide-react';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | const tableData = [
+  4 |   { id: 1, pair: 'BTC/DAI', price: '98,832.93 / Rp 1,612,213,281.72', change: '+3.89%', highLow: '102,451.34 / Rp 94,288.07', marketCap: 'Rp 31,953.008T', volume: '1.538M', isUp: true },
+
+Import trace:
+  Server Component:
+    ./components/CryptoTable.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:19.058] Browser ERROR   ./components/CryptoTable.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Star } from 'lucide-react';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | const tableData = [
+  4 |   { id: 1, pair: 'BTC/DAI', price: '98,832.93 / Rp 1,612,213,281.72', change: '+3.89%', highLow: '102,451.34 / Rp 94,288.07', marketCap: 'Rp 31,953.008T', volume: '1.538M', isUp: true },
+
+Import trace:
+  Server Component:
+    ./components/CryptoTable.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:19.059] Browser ERROR   ./components/CryptoTable.tsx:1:1
+Module not found: Can't resolve 'lucide-react'
+> 1 | import { Star } from 'lucide-react';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | const tableData = [
+  4 |   { id: 1, pair: 'BTC/DAI', price: '98,832.93 / Rp 1,612,213,281.72', change: '+3.89%', highLow: '102,451.34 / Rp 94,288.07', marketCap: 'Rp 31,953.008T', volume: '1.538M', isUp: true },
+
+Import trace:
+  Server Component:
+    ./components/CryptoTable.tsx
+    ./app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:00:19.678] Server  LOG      ✓ Compiled in 269ms
+[00:00:23.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:33.266] Server  LOG      ✓ Compiled in 426ms
+[00:04:35.867] Server  LOG      ✓ Compiled in 200ms
+[00:04:40.788] Server  LOG      ✓ Compiled in 37ms
+[00:04:42.825] Server  LOG      ✓ Compiled in 144ms
+[00:04:53.711] Server  LOG      ✓ Compiled in 578ms
+[00:05:14.310] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:47.224] Server  LOG      ✓ Compiled in 445ms
+[00:07:46.679] Server  LOG      ✓ Compiled in 71ms
+[00:08:18.332] Server  LOG      ✓ Compiled in 62ms
+[00:08:23.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:33.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:04.770] Server  LOG      ✓ Compiled in 318ms
+[00:12:29.582] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:45.714] Server  LOG      ✓ Compiled in 362ms
+[00:16:58.854] Server  LOG      ✓ Compiled in 132ms
